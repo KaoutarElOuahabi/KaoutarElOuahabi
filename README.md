@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kaoutar El Ouahabi  
-### Junior Data Engineer | Data Scientist  
+### Data Engineer | Data Scientist  
 
-Welcome to my GitHub! I am a **Junior Data Engineer** with a strong foundation in **Data Science** and a passion for creating scalable, cloud-based solutions. I recently graduated from **ENSA Tangier** and am now building expertise in **Azure Cloud** technologies and data engineering workflows.  
+Welcome to my GitHub! I am a **Data Engineer** with a strong foundation in **Data Science** and a passion for creating scalable, cloud-based solutions. I recently graduated from **ENSA Tangier** and am now building expertise in **Azure Cloud** technologies and data engineering workflows.  
 
 ---
 
@@ -9,7 +9,7 @@ Welcome to my GitHub! I am a **Junior Data Engineer** with a strong foundation i
 
 - 🎓 **Education**: Master's degree in Data Science from ENSA Tangier.  
 - 🌱 **Current Focus**: Strengthening my **Data Engineering** skills, especially on **Azure Cloud**.  
-- 🌟 **Leadership**: As **Local President of JCI Tétouan**, I’ve honed my teamwork, leadership, and organizational abilities.  
+- 🌟 **Leadership**: As **Local vice President of JCI Tétouan**, I’ve honed my teamwork, leadership, and organizational abilities.  
 - 💡 **Areas of Expertise**: Data pipelines, ETL workflows, machine learning, and cloud-based data processing.  
 
 ---
@@ -42,7 +42,7 @@ Welcome to my GitHub! I am a **Junior Data Engineer** with a strong foundation i
 
 ## 🔍 Seeking Opportunities  
 
-I am actively looking for **entry-level opportunities** in:  
+I am actively looking for **opportunities** in:  
 - **Data Engineering**: Designing efficient ETL pipelines and data workflows.  
 - **Cloud Solutions**: Building scalable systems with Azure technologies.  
 - **Machine Learning**: Implementing predictive models and data-driven solutions.  
