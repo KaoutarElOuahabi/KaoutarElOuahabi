@@ -11,7 +11,7 @@ Feel free to reach out and connect with me on these platforms:
 | Platform | Link                                                                                                                              |
 | :------- | :-------------------------------------------------------------------------------------------------------------------------------- |
 | Email    | [![Email](https://img.shields.io/badge/Email-kaoutar.elouahabi.de@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaoutar.elouahabi.de@gmail.com) |
-| LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaoutar-elouahabi/) |
+| LinkedIn | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaoutarelouahabi/) |
 
 ---
 
