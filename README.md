@@ -49,6 +49,16 @@ I am actively looking for **opportunities** in:
 
 ---
 
+## 📈 Profile Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=KaoutarElOuahabi&show_icons=true&theme=dark" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaoutarElOuahabi&layout=compact&theme=dark" alt="Top Languages" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=KaoutarElOuahabi&style=for-the-badge&color=blue)](https://github.com/KaoutarElOuahabi)
+
+
+
 ## 🌐 Let’s Connect  
 
 📫 **Email**: [kaoutar.elouahabi.de@gmail.com](mailto:kaoutar.elouahabi.de@gmail.com)  
